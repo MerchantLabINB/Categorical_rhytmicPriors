@@ -34,3 +34,10 @@ The MATLAB scripts included here perform the following:
 ## 📝 Citation
 If you use the database or the code, please cite the original article:
 Castillo-Almazán, A., Prado, L., Jacoby, N., & Merchant, H. (2025). Categorical rhythmic priors in macaques. bioRxiv. [https://www.biorxiv.org/content/10.64898/2025.12.29.696861v1]
+
+## 📬 Contact
+For any questions or queries about the project, please contact:
+Hugo Merchant, hugomerchant@unam.mx
+
+For any query on the code or database, please contact:
+Ameyaltzin Castillo-A, ameyaltzin.ca@gmail.com
