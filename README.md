@@ -19,6 +19,7 @@ This project explores how macaques synchronize to isochronous and non-isochronou
 The MATLAB scripts included here perform the following:
 * **Iterated Reproduction Analysis:** * Evaluates convergence using **Jensen-Shannon divergence (JSD)**.
 * **Categorical Analysis:** Identifies peaks in rhythmic ratios and performs bootstrapping for 95% confidence intervals. Identifies categories in a 2D density plot.
+![peaks and categories](https://github.com/MerchantLabINB/Categorical_rhytmicPriors/blob/db13b96f81dedac666a3f625350de83cefae4cd1/peaks_categories.png)
 
 ## 💻 Installation & Requirements
 - **Software:** MATLAB (Recommended version R2021a or later). For the analysis in the article, MATLAB R2025b was used.
