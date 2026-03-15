@@ -9,8 +9,8 @@ The codebase supports the investigation of rhythmic synchronization and categori
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
 - [Installation & Requirements](#installation--requirements)
-- [Usage](#usage)
 - [Citation](#citation)
+- [Contact](#contact)
 
 ## 🔬 Project Overview
 This project explores how macaques synchronize to isochronous and non-isochronous rhythms. Using an **Iterated Reproduction** paradigm (similar to the "broken telephone game"), we used this code to reveal the internal "priors" or rhythmic categories (like 1:1 or 1:2 ratios) that monkeys hold. We compared the results of the monkey against human synchronization in visual and auditory modalities.
