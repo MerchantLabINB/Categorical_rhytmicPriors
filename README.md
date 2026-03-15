@@ -28,8 +28,7 @@ The MATLAB scripts included here perform the following:
    ```bash
    git clone [https://github.com/YourUsername/Macaque-Rhythmic-Priors.git](https://github.com/YourUsername/Macaque-Rhythmic-Priors.git)
 2. Get the database from:
-
-## 📊 Usage
+   Data_AllGrps.mat
 
 ## 📝 Citation
 If you use the database or the code, please cite the original article:
