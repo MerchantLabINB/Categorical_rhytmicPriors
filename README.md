@@ -31,7 +31,7 @@ The MATLAB scripts included here perform the following:
    Data_AllGrps.mat
 
 ## 📝 Citation
-If you use the database or the code, please cite the original article:
+If you use the dataset or the code, please cite the original article:
 Castillo-Almazán, A., Prado, L., Jacoby, N., & Merchant, H. (2025). Categorical rhythmic priors in macaques. bioRxiv. [https://www.biorxiv.org/content/10.64898/2025.12.29.696861v1]
 
 ## 📬 Contact
