@@ -38,5 +38,5 @@ Castillo-Almazán, A., Prado, L., Jacoby, N., & Merchant, H. (2025). Categorical
 For any questions or queries about the project, please contact:
 Hugo Merchant, hugomerchant@unam.mx
 
-For any query on the code or database, please contact:
+For any query on the code or dataset, please contact:
 Ameyaltzin Castillo-A, ameyaltzin.ca@gmail.com
